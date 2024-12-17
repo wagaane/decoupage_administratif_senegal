@@ -2,7 +2,7 @@ name: decoupage_administratif_senegal
 description: Un package Flutter pour le découpage administratif du Sénégal, fournissant une base de données SQLite des régions, départements et communes du Sénégal.
   Ce package permet d'accéder aux informations administratives du pays à travers des requêtes SQL locales.
 
-version: 0.0.2
+version: 0.0.3
 
 homepage:  https://github.com/wagaane/decoupage_administratif_senegal.git
 repository:  https://github.com/wagaane/decoupage_administratif_senegal.git
@@ -11,11 +11,6 @@ environment:
   sdk: ^3.5.3
   flutter: ">=1.17.0"
 
-# Authors or maintainers
-authors:
-  - Name : Ablaye Faye
-  - Mail : ablayefaye9725@gmail.com
-  - Phone Number : +221778545382 / +221707687048
 dependencies:
   sqflite: ^2.4.1
   path: ^1.8.3

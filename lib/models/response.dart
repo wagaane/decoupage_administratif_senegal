@@ -1,5 +1,3 @@
-import 'package:decoupage_administratif_senegal/models/enumerations/reponse_status.dart';
-
 class Response {
   Object? data; // Primary key, optional as it will be auto-generated
   String status;
