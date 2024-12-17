@@ -1,0 +1,7 @@
+enum TableEnum{
+  TD_REGION,
+  TD_DEPARTEMENT,
+  TD_VILLE,
+  TD_COMMUNE,
+  TD_QUARTIER,
+}

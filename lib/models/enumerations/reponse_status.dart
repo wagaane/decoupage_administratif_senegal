@@ -1,0 +1,4 @@
+enum ResponseStatus{
+  OK,
+  EXCEPTION
+}
