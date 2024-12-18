@@ -1,5 +1,5 @@
 class Response {
-  Object? data; // Primary key, optional as it will be auto-generated
+  Object? data;
   String status;
   String message;
 

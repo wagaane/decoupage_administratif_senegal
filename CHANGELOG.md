@@ -1,3 +1,3 @@
-## 0.0.3
+## 0.0.4
 
-* Toutes les fonctionalité sont disponibles dans cette version.
+* Ajout de la recupèration par code
