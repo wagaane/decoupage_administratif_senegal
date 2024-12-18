@@ -47,10 +47,17 @@ var regions = await Queries.getRegions();
 int id = 1;
 var region = await Queries.getRegionById(id);
 
+// Recupèration d'une région via son code
+String code = 'R1'; // code region : R1, R2, R3 ...
+var region = await Queries.getRegionById(code);
+
 // Recupératioin départements via id région
 int idRegion = 2;
 var departments = await Queries.getDepartmentById(idRegion);
 
 ```
-## Liens utils
-Lien github du projet https://github.com/wagaane/decoupage_administratif_senegal.git
+
+
+## Note
+Il est important de faire une étude du fichier assets/decoupage.db, afin de 
+faire une visualisation globale des données pour une meilleure prise en main.
