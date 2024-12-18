@@ -25,7 +25,7 @@ Ajoutez la dépendance suivante dans votre fichier `pubspec.yaml` :
 
 ```yaml
 dependencies:
-  decoupage_administratif_senegal: ^0.0.3
+  decoupage_administratif_senegal: ^0.0.6
 ```
 
 
